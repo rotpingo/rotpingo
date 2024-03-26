@@ -1,5 +1,5 @@
 -  Hi, I’m Vio
--  Software Dev Student, from Moldova currently living in Germany
+-  Junior Software Dev, from Moldova currently living in Germany
 -  Frameworks learning: Angular, Ionic, Boot Spring, Flutter
 -  Languages learning: Java, C++, TypeScript, Dart
 
